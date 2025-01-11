@@ -46,7 +46,7 @@ Write-Host -ForegroundColor Red "   ██║     ██║  ██║███�
 Write-Host -ForegroundColor Red "   ╚═╝     ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝   ";
 Write-Host "";
 Write-Host -ForegroundColor Blue "   Skidded by Aimwhere(god tier paster), made by PureIntent(shitty screensharer) - " -NoNewLine
-Write-Host -ForegroundColor Red "discord.gg/redlotus";
+Write-Host -ForegroundColor Red "discord.gg/f2CVGYuN";
 Write-Host "";
 
 function Test-Admin {;$currentUser = New-Object Security.Principal.WindowsPrincipal $([Security.Principal.WindowsIdentity]::GetCurrent());$currentUser.IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator);}
